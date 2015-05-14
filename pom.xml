@@ -8,8 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-boot-mybatis-oracle</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -66,4 +65,7 @@
 		</plugins>
 	</build>
 
+	<description>spring-boot
+mybatis
+oracle</description>
 </project>
